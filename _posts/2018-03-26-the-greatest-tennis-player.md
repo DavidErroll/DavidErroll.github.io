@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The Tennis Gini(e)"
+date: 2018-03-26
+---
+
 <h1>The Greatest Tennis Player of the Open Elo</h1>
 
 <p>Currently, most statistics would suggest that [Roger Federer](https://en.wikipedia.org/wiki/Roger_Federer) holds this position.  In addition to holding the ATP Number 1 ranking for more weeks and having won more Grand Slam titles than any other player, the list of other tennis records that Federer holds [is surprisingly long](https://en.wikipedia.org/wiki/List_of_career_achievements_by_Roger_Federer).</p>
