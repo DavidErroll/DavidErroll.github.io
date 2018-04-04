@@ -15,7 +15,7 @@ I have a few pieces I have written floating about:
 
 <ul>
   <li><a href="http://www.labaton.com/en/about/published/upload/WLJ_SCL2213_Commentary_Stocker.pdf">Cyber Threats and Securities Litigation: The Emerging Landscape</a></li>
-  <li><a href="http://www.labaton.com/blog/upload/2012_103.pdf">How JOBS Act Masks Pitfalls</a></li>
+  <li><a href="http://www.labaton.com/blog/upload/2012_103.pdf">How JOBS Act Masks Pitfalls</a></li> (Life hack: remember to get <em>explicit</em> credit for your writing work.)</li>
   <li><a href="https://www.amazon.com/American-Genius-Nineteenth-Century-Locks/dp/1593720165/">American Genius</a>, which I co-authored with my father.</li>
     <ul>
       <li>A nice review from the folks at the <a href="https://www.wsj.com/articles/SB116503809857139046"><em>Wall Street Journal</em></a></li>
