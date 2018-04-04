@@ -19,5 +19,5 @@ I have a few pieces I have written floating about:
   <li><a href="https://www.amazon.com/American-Genius-Nineteenth-Century-Locks/dp/1593720165/"><em>American Genius</em></a>, which I co-authored with my father.</li>
     <ul>
       <li>A nice review from the folks at the <a href="https://www.wsj.com/articles/SB116503809857139046"><em>Wall Street Journal</em></a></li>
-      <li>Some rich comments from <a href="https://www.forbes.com/forbes-life-magazine/2007/0423/129.html"><em>Forbes</em></a></li>
-      <li>Some color from the <a href="https://www.nysun.com/new-york/author-with-a-true-lock-on-history/41646/"><em>New York Sun</em></a></li>
+      <li>Some rich notes from <a href="https://www.forbes.com/forbes-life-magazine/2007/0423/129.html"><em>Forbes</em></a></li>
+      <li>Some enlighting commentary from the <a href="https://www.nysun.com/new-york/author-with-a-true-lock-on-history/41646/"><em>New York Sun</em></a></li>
