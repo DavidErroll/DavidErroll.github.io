@@ -54,10 +54,20 @@ The Gini Coefficient is then calculated as the ratio of area A to the sum of are
 So we could employ this Gini Coefficient calculation to analyze the weekly ranking points of players on the ATP tennis tour.
 </p>
 <p>
-For any given week, we can determine the Gini Coefficient for the distribution of ATP ranking points among players. Were all players to be tied, the figure would be 0.0; were one player to hold all points, the Coefficient would be 1.0. (Of course, in reality these extremes are functionally impossible as more than one tournament occurs in many weeks.)
+For any given week, we can determine the Gini Coefficient for the distribution of ATP ranking points among players. Were all players to be tied, the figure would be 0.0; were one player to hold all points, the Coefficient would be 1.0.
 </p>
 <p>
-
-
+Of course, in reality these extremes are functionally impossible: points are awarded for numerous places in any given tournament and more than one tournament occurs in many weeks. But the underlying premise is sound, in that a sufficiently high Gini Coefficient should allow us to state with confidence that the players at the top of the ranking list are not simply lucky – they are the best – because tournaments with equally-skilled participants would not be expected to produce such a skewed distribution of points.
 </p>
 <p>
+But (I hear you cry) this begs the question:
+</p>
+<p>
+<em>Just what is the expected Gini Coefficient for a system of equally likely winners?</em>
+</p>
+<p>
+This is what we need to determine, and since my coding is arguably better than my mathematical statistics, I will attempt to estimate this with a <a href="https://en.wikipedia.org/wiki/Monte_Carlo_method">Monte Carlo simulation</a>.
+</p>
+<p>
+Stay tuned….
+</p>
