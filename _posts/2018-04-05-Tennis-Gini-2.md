@@ -7,7 +7,9 @@ date: 2018-04-05
 <h2>
 Gini Coefficient: A (somewhat) necessary side-note
 </h2>
-
+<h3>
+What does it mean to be the best?
+</h3>
 <p>
 One of the underlying premises of this investigation is the idea of identifying the "greatest tennis player of all time" implicitly assumes that we are not simply finding the <em>luckiest</em> player of all time.
 </p>
@@ -27,4 +29,20 @@ OK – it seems a bit too obvious to even merit an effort at a proof.  After all
 
 <p>
 It's axiomatic. Isn't it?
+</p>
+
+<h3>
+Incorporating <em>Gini</em>
+</h3>
+
+<p>
+The <a href="https://en.wikipedia.org/wiki/Gini_coefficient">Gini Coefficient</a> is a measure of value dispersion or the level of inequality among values in a frequency distribution.  Originally proposed for use as a measure of income inequality in economic systems, the metric has been used in other fields, such as education, biochemistry, and engineering, as well.
+
+At its heart, the Gini Coefficient is based on the plot of a <a href="https://en.wikipedia.org/wiki/Lorenz_curve">Lorenze Curve</a>, a graphical comparison of the cumulative portion of some factor (wealth, income, <em>etc</em>.) relative to the relevant proportion of the population.
+</p>
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Economics_Gini_coefficient2.svg#/media/File:Economics_Gini_coefficient2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Economics_Gini_coefficient2.svg/1200px-Economics_Gini_coefficient2.svg.png" alt="Economics Gini coefficient2.svg"></a><br>WikiMedia Commons (<a href="http://en.wikipedia.org/wiki/File:Economics_Gini_coefficient.svg">LINK</a>)
+</p>
+
+
 </p>
