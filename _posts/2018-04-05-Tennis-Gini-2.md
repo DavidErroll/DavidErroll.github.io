@@ -48,11 +48,15 @@ An example of a Lorenz curve for income inequality (below), illustrates how the 
 <a href="https://commons.wikimedia.org/wiki/File:Economics_Gini_coefficient2.svg#/media/File:Economics_Gini_coefficient2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Economics_Gini_coefficient2.svg/1200px-Economics_Gini_coefficient2.svg.png" alt="Economics Gini coefficient2.svg" width="200"></a><br>WikiMedia Commons (<a href="http://en.wikipedia.org/wiki/File:Economics_Gini_coefficient.svg">LINK</a>)
 
 <p>
-The Gini Coefficient is then calculated as the ratio of area A to the sum of areas A + B.  (Because the total area of A + B is always 0.5, this ratio may also be calculated as 2 * A or 1 - 2 * B.)
-
-
-
-
+The Gini Coefficient is then calculated as the ratio of area A to the sum of areas A + B.  (Because the total area of A + B is always 0.5, this ratio may also be calculated as 2 * A or 1 - 2 * B.) A Gini Coefficient of 0.0 indicates perfect equality, while the maximum (for our purposes) of 1.0 shows a system where a single member holds 100% of the value in question. In the income example, an economy where all members received the same periodic income would approach 0.0, whereas one in which one person received all income would approach 1.0.
+</p>
+<p>
+So we could employ this Gini Coefficient calculation to analyze the weekly ranking points of players on the ATP tennis tour.
+</p>
+<p>
+For any given week, we can determine the Gini Coefficient for the distribution of ATP ranking points among players. Were all players to be tied, the figure would be 0.0; were one player to hold all points, the Coefficient would be 1.0. (Of course, in reality these extremes are functionally impossible as more than one tournament occurs in many weeks.)
+</p>
+<p>
 
 
 </p>
