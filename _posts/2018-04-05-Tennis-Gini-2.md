@@ -19,16 +19,12 @@ So there is a hypothesis that we are implicitly rejecting by searching for a gre
 </p>
 <p>
 OK – it seems a bit too obvious to even merit an effort at a proof.  After all, anyone who has played tennis – poorly, well, or first one and eventually the other – can tell you that:
-
+</p>
 <ol>
   <li>there are skills that can be taught, learned, and applied, and</li>
   <li>different people have different capacities to learn and apply these skills.</li>
 </ol>
 
-It's axiomatic.
-</p>
-
 <p>
-
+It's axiomatic. Isn't it?
 </p>
-<p>
