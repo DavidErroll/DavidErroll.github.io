@@ -60,7 +60,7 @@ For any given week, we can determine the Gini Coefficient for the distribution o
 Of course, in reality these extremes are functionally impossible: points are awarded for numerous places in any given tournament and more than one tournament occurs in many weeks. But the underlying premise is sound, in that a sufficiently high Gini Coefficient should allow us to state with confidence that the players at the top of the ranking list are not simply lucky – they are the best – because tournaments with equally-skilled participants would not be expected to produce such a skewed distribution of points.
 </p>
 <p>
-But (I hear you cry) this begs the question:
+But this begs the question:
 </p>
 <p>
 <em>Just what is the expected Gini Coefficient for a system of equally likely winners?</em>
