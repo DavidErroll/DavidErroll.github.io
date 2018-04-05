@@ -4,9 +4,9 @@ title: "Tennis Gini(e) 2"
 date: 2018-04-05
 ---
 
-<p><class = subtitle>
+<h2>
 Gini Coefficient: A (somewhat) necessary side-note
-</p>
+</h2>
 
 <p>
 One of the underlying premises of this investigation is the idea of identifying the "greatest tennis player of all time" implicitly assumes that we are not simply finding the <em>luckiest</em> player of all time.
