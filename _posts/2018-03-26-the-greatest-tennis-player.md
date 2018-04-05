@@ -12,4 +12,4 @@ date: 2018-03-26
 
 <p>This analysis seeks to address the issue beginning from the opposite end of the spectrum: in any tournament, there will be a "winner" regardless of whether the players exhibit material differences in skill.  That is, even a tournament of theoretically equally-skilled players will produce a "champion" due to random chance during the play – something much more likely in tennis than in chess.</p>
 
-<p>More to follow....</p>
+<p><a href="http://daviderroll.github.io/2018/04/05/Tennis-Gini-2.html>More to follow….</a></p>
