@@ -38,11 +38,19 @@ Incorporating <em>Gini</em>
 <p>
 The <a href="https://en.wikipedia.org/wiki/Gini_coefficient">Gini Coefficient</a> is a measure of value dispersion or the level of inequality among values in a frequency distribution.  Originally proposed for use as a measure of income inequality in economic systems, the metric has been used in other fields, such as education, biochemistry, and engineering, as well.
 
-At its heart, the Gini Coefficient is based on the plot of a <a href="https://en.wikipedia.org/wiki/Lorenz_curve">Lorenze Curve</a>, a graphical comparison of the cumulative portion of some factor (wealth, income, <em>etc</em>.) relative to the relevant proportion of the population.
+At its heart, the Gini Coefficient is based on the plot of a <a href="https://en.wikipedia.org/wiki/Lorenz_curve">Lorenze Curve</a>, a graphical comparison of the cumulative portion of some factor (wealth, income, <em>etc</em>.) relative to the relevant proportion of the population.  
+
+An example of a Lorenz curve for income inequality (below), illustrates how the measure presents the difference between the actual or estimated cumulative metric (the curve) versus a theoretically perfectly equal distribution (the straight line):
 </p>
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Economics_Gini_coefficient2.svg#/media/File:Economics_Gini_coefficient2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Economics_Gini_coefficient2.svg/1200px-Economics_Gini_coefficient2.svg.png" alt="Economics Gini coefficient2.svg"></a><br>WikiMedia Commons (<a href="http://en.wikipedia.org/wiki/File:Economics_Gini_coefficient.svg">LINK</a>)
 </p>
+
+<p>
+The Gini Coefficient is then calculated as the ratio of area A to the sum of areas A + B.  (Because the total area of A + B is always 0.5, this ratio may also be calculated as 2 * A or 1 - 2 * B.)
+
+
+
 
 
 </p>
