@@ -37,9 +37,11 @@ Incorporating <em>Gini</em>
 
 <p>
 The <a href="https://en.wikipedia.org/wiki/Gini_coefficient">Gini Coefficient</a> is a measure of value dispersion or the level of inequality among values in a frequency distribution.  Originally proposed for use as a measure of income inequality in economic systems, the metric has been used in other fields, such as education, biochemistry, and engineering, as well.
-
+</p>
+<p>
 At its heart, the Gini Coefficient is based on the plot of a <a href="https://en.wikipedia.org/wiki/Lorenz_curve">Lorenze Curve</a>, a graphical comparison of the cumulative portion of some factor (wealth, income, <em>etc</em>.) relative to the relevant proportion of the population.  
-
+</p>
+<p>
 An example of a Lorenz curve for income inequality (below), illustrates how the measure presents the difference between the actual or estimated cumulative metric (the curve) versus a theoretically perfectly equal distribution (the straight line):
 </p>
 
@@ -52,4 +54,6 @@ The Gini Coefficient is then calculated as the ratio of area A to the sum of are
 
 
 
+
 </p>
+<p>
