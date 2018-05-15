@@ -22,7 +22,7 @@ Spike Lee warned us that the fault lines in our society not only still exist but
   </em>
 </blockquote>
 <p>
-Lee's <a href="http://www.vulture.com/2018/05/read-it-spike-lee-and-his-anti-trump-speech-at-cannes.html">entire statement</a> – Malthusian in its honesty: pithy, brutal, and short – is worth reading.
+Lee's <a href="http://www.vulture.com/2018/05/read-it-spike-lee-and-his-anti-trump-speech-at-cannes.html">entire statement</a> – post-Hobbesian in its honesty: pithy, brutal, and short – is worth reading.
 </p>
 <p>
 My take on farce has always been that the humor rests on shared preconceptions: you can't have someone do something outrageously laughable without a common pre-established expectation of the limits of behavior. The best farce, though, is generally not just Dada-esque randomness. Rather, a small, perhaps every-day, problem snow-balls into an avalanche of mis-understanding as characters do their best to work with incomplete information.
