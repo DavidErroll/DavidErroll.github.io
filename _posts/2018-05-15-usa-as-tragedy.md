@@ -23,7 +23,9 @@ One of my half-baked theories is that this is what makes <em>Hamlet</em> so popu
 So why isn't the U.S.'s current situation farcical? Why can't we all simply 
 </p>
 <blockquote>
-The so-called American cradle of democracy, that’s bullshit. The United States of America was built on the genocide of native people and slavery. That is the fabric of the United States of America.
+<em>
+  The so-called American cradle of democracy, that’s bullshit. The United States of America was built on the genocide of native people and slavery. That is the fabric of the United States of America.
+  </em>
 </blockquote>
 <p>
 Lee's <a href="http://www.vulture.com/2018/05/read-it-spike-lee-and-his-anti-trump-speech-at-cannes.html">entire statement</a> – Malthusian in its honesty: pithy, brutal, and short – is worth reading.
