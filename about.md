@@ -10,7 +10,7 @@ One of my favorite thoughts was articulated by the wonderful Calvin Trillin, whe
 </p>
 
 <p>
-I'm serious about moving into tech more completely. As part of developing my street cred <code></snort></code>, I'm currently working on a new way of deciding just who the <a href="http://daviderroll.github.io/2018/03/26/the-greatest-tennis-player.html>greatest tennis player of all time</a> is. (Full disclosure: I'm a fan of Roger and my wife is a fan of Rafa (we make it work) but I'll be interested to see whatever the data ultimately shows.)
+I'm serious about moving into tech more completely. As part of developing my street cred <monospace></snort></monospace>, I'm currently working on a new way of deciding just who the <a href="http://daviderroll.github.io/2018/03/26/the-greatest-tennis-player.html">greatest tennis player of all time</a> is. (Full disclosure: I'm a fan of Roger and my wife is a fan of Rafa (we make it work) but I'll be interested to see whatever the data ultimately shows.)
 </p>
  
 <p>
