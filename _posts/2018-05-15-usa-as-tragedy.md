@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USA as Tragedy"
+title: "Tragedy, not Farce"
 date: 2018-05-15
 ---
 
