@@ -37,10 +37,23 @@ So why isn't the U.S.'s current situation farcical? Why can't we all simply agre
 Because Americans, it turns out, don't really share the basic common thread that we would need to make this a real farce. We don't, it seems, all agree on the message of that episode of <a href="https://www.imdb.com/title/tt0066626/"><em>All in the Family</em></a> where <a href="https://www.youtube.com/watch?v=Cfocap0Wyac">Archie gets a blood transfusion</a> from a doctor who happens to be a black woman. And without that shared concept of basic behavioral norms, we don't get farce because when someone does something "over the line" from one person's perspective, we cannot be confident that others agree. In fact, we have realized, that they do not agree.
 </p>
 <p>
-Rather, we do have is the making of a tragedy. And we are getting close to the part of the story where Dobby and Sirius are gone but Fred and George are still together.
+Rather, we do have is the making of the Unites States as a tragic hero. For the ancient Greeks who invented the genre, tragic heros evolved to be expected to demonstrate a number of qualities during the course of the play. As Aristotle 
+  
+  https://en.wikipedia.org/wiki/Poetics_(Aristotle)
+  
+  https://www.stmarys-ca.edu/sites/default/files/attachments/files/Poetics.pdf
+  
+  the change of fortune presented must not be the spectacle of a virtuous man brought
+from prosperity to adversity: for this moves neither pity nor fear; it merely shocks us.
+Nor, again, that of a bad man passing from adversity to prosperity: for nothing can be
+more alien to the spirit of Tragedy; it possesses no single tragic quality; it neither satisfies the moral sense, nor calls forth pity or fear. Nor, again, should the downfall of
+the utter villain be exhibited. A plot of this kind would, doubtless, satisfy the moral
+sense, but it would inspire neither pity nor fear; for pity is aroused by unmerited
+misfortune, fear by the misfortune of a man like ourselves. (45)
+  
 </p>
 <p>
-In the wake of the past two years, it will take, I estimate, another 40 to recover, to simply make up the lost ground, to get back to when the racist member of your family is someone that you roll your eyes at and warn you significant other about before the first visit.
+In the wake of the past two years, it will take, I estimate, another 40 to recover – to simply make up the lost ground, to get back to when the racist member of your family is someone that you roll your eyes at and warn you significant other about before the first visit.
 </p>
 <p>
 As someone smarter than I quipped some time ago, it may be true that all visionaries are hypocrites but that doesn't mean we are allowed to be so as well. This time, we have to figure out how to make the United States live up to the sentiments of the founders.
