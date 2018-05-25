@@ -37,20 +37,23 @@ So why isn't the U.S.'s current situation farcical? Why can't we all simply agre
 Because Americans, it turns out, don't really share the basic common thread that we would need to make this a real farce. We don't, it seems, all agree on the message of that episode of <a href="https://www.imdb.com/title/tt0066626/"><em>All in the Family</em></a> where <a href="https://www.youtube.com/watch?v=Cfocap0Wyac">Archie gets a blood transfusion</a> from a doctor who happens to be a black woman. And without that shared concept of basic behavioral norms, we don't get farce because when someone does something "over the line" from one person's perspective, we cannot be confident that others agree. In fact, we have realized, that they do not agree.
 </p>
 <p>
-Rather, we do have is the making of the Unites States as a tragic hero. For the ancient Greeks who invented the genre, tragic heros evolved to be expected to demonstrate a number of qualities during the course of the play. As Aristotle 
-  
-  https://en.wikipedia.org/wiki/Poetics_(Aristotle)
-  
-  https://www.stmarys-ca.edu/sites/default/files/attachments/files/Poetics.pdf
-  
-  the change of fortune presented must not be the spectacle of a virtuous man brought
-from prosperity to adversity: for this moves neither pity nor fear; it merely shocks us.
-Nor, again, that of a bad man passing from adversity to prosperity: for nothing can be
-more alien to the spirit of Tragedy; it possesses no single tragic quality; it neither satisfies the moral sense, nor calls forth pity or fear. Nor, again, should the downfall of
-the utter villain be exhibited. A plot of this kind would, doubtless, satisfy the moral
-sense, but it would inspire neither pity nor fear; for pity is aroused by unmerited
-misfortune, fear by the misfortune of a man like ourselves. (45)
-  
+Rather, we do have is the making of the Unites States as a tragic hero. For the ancient Greeks who invented the genre, tragic heros evolved to be expected to demonstrate a number of qualities during the course of the play. As Aristotle discussed in his <a href="https://en.wikipedia.org/wiki/Poetics_(Aristotle)"><em>Poetics</em></a>, the making of a tragic hero could include:
+</p>
+<ul>
+  <li>enduring a change of fortune for the worse (tautology, I suppose);</li>
+  <li>suffer this downfall through some inherent flaw, frailty, or misjudgement ("hamartia" or ἁμαρτία);</li>
+  <li>be reknown or noble, but neither purely good or evil, <em>i.e.</em>, famous but relatable;</li>
+  <li>demonstrate some level of hubris that plays a role in the downfall; and</li>
+  <li>exhibit some realization of the nature of interplay between the hubris, hamartia, and downfall.</li>  
+</ul>
+<p>
+  (Full disclosure here: I know f-all about Greek tragedy or its academic theory. S.H. Butcher's 1902 translation of <em>Poetics</em> is <a href="https://www.stmarys-ca.edu/sites/default/files/attachments/files/Poetics.pdf">pretty easy to find</a> – but there are likely more recent analyses.)
+</p>
+<p>
+  So even if it is half-baked and fails close scrutiny, I see the United States as currently suffering through the downfall period of a Greek tragedy. A noble country, based on the ideals of the Enlightenment, harbored a latent character flaw of racism, misjudged the effect of offering Confederate states easy re-entry to the Union, believed that the nation was too strong to be threatened by such internal divisions, and now finds itself in a Kafka-eqsu struggle for its own survival – or at least the survival of the United States as the post–World War II world knows it.
+</p>
+<p>  
+  (Yes, it wasn't latent to generations of black Americans who suffered through slavery, Jim Crow, and intimidation – and continue to suffer these preposerterous outrages.  This is 100% true. But it's not the perception that I'm addressing here.)
 </p>
 <p>
 In the wake of the past two years, it will take, I estimate, another 40 to recover – to simply make up the lost ground, to get back to when the racist member of your family is someone that you roll your eyes at and warn you significant other about before the first visit.
