@@ -52,12 +52,18 @@ Rather, we do have is the making of the Unites States as a tragic hero. For the 
 <p>
   So even if it is half-baked and fails close scrutiny, I see the United States as currently suffering through the downfall period of a Greek tragedy. A noble country, based on the ideals of the Enlightenment, harbored a latent character flaw of racism, misjudged the effect of offering Confederate states easy re-entry to the Union, believed that the nation was too strong to be threatened by such internal divisions, and now finds itself in a Kafka-eqsu struggle for its own survival – or at least the survival of the United States as the post–World War II world knows it.
 </p>
-<p>  
-  (The un-rebuttable counterpoint being that it wasn't latent to generations of black Americans who suffered through slavery, Jim Crow, and intimidation – and continue to suffer these preposerterous outrages.  This is 100% true.)
+<p>
+  The tragic flaw in the United States was always racism, a type that was so deeply embedded in the social and economic fiber of the states from the beginning that even people like Jefferson who no doubt knew how wrong slavery was on some level could not bring themselves to emancipate their own slaves during their lives. As one libertarian economist and Jefferson scholar noted to me, the phrase "<a href="https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence">life, liberty, and the pursuit of happiness</a>" in the Declaration of Independence was a modified version of John Locke's formulation of the so-called natural rights of "<a href="https://en.wikipedia.org/wiki/Natural_and_legal_rights#John_Locke">life, liberty, and property</a>" – and a change Jefferson made due to qualms of conscience about slavery. There are other <a href="https://www.huffingtonpost.com/daniel-brook/the-pursuit-of-happiness_b_54827.html">competing</a> <a href="https://historynewsnetwork.org/article/46460">theories</a> about the source of the quote.
 </p>
 <p>
-In the wake of the past two years, it will take, I estimate, another 40 to recover – to simply make up the lost ground, to get back to when the racist member of your family is someone that you roll your eyes at and warn you significant other about before the first visit.
+  But what is clear is that a fateful – and possibly fatal – flaw has lain latent in American culture.
+</p>
+<p>    
+  (The un-rebuttable corollary of course being this: Racism was never latent to generations of black Americans who suffered through slavery, Jim Crow, and intimidation – and continue to suffer these preposerterous outrages.  This is 100% true.)
 </p>
 <p>
-As someone smarter than I quipped some time ago, it may be true that all visionaries are hypocrites but that doesn't mean we are allowed to be so as well. This time, we have to figure out how to make the United States live up to the sentiments of the founders.
+In the wake of the past two years, it will take, I estimate, another 40 to recover – to simply make up the lost ground, to get back to a time when the racist member of your family is someone that you roll your eyes at and warn you significant other about before the first visit to a family dinner.
+</p>
+<p>
+As someone smarter than I quipped some time ago, it may be true that all visionaries are hypocrites but that doesn't mean we are allowed to be so as well. This time, we have to figure out how to make the United States live up to the sentiments it was founded on.
 </p>
