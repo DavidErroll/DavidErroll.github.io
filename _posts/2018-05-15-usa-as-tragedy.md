@@ -67,3 +67,6 @@ In the wake of the past two years, it will take, I estimate, another 40 to recov
 <p>
 As someone smarter than I quipped some time ago, it may be true that all visionaries are hypocrites but that doesn't mean we are allowed to be so as well. This time, we have to figure out how to make the United States live up to the sentiments it was founded on.
 </p>
+<p>
+  Spike Lee is right: It is high time to get rid of the bullshit.
+</p>
