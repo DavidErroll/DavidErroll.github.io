@@ -46,7 +46,7 @@ Whose Gini metric is it?
 </h3>
 
 <p>
-One aspect of the Gini coefficient that we have to keep in mind is that it is a ratio of areas – and the ratio’s divisor is constant.  As a consequence of this, a functionally infinite number of sets of numbers that can give any since Gini result.  That is, two very different distributions can have the same Gini coefficient.  
+One aspect of the Gini coefficient that we have to keep in mind is that it is a ratio of areas – and the ratio’s divisor is constant.  As a consequence of this, a functionally infinite number of sets of numbers can give any particular Gini result.  That is, two very different distributions can have the same Gini coefficient.  
 </p>
 
 <p>
