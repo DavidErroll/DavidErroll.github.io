@@ -25,12 +25,12 @@ The following is a rough idea of the steps I see for the Tennis Gini(e) project 
   <li>Repeat this step for each rank through the top 100 players (or more, depending).</li>
   <li>Sum the Gini-weighted ranking points for each player earned at each ranking.  This in the basic reportable result: the player with the greatest Gini-weighted ranking point total across all weeks is the most dominant player, the “G.O.A.T” if you will.  (Honey, if you’re reading this – which you’re not – it could be Rafa.  It could. I don’t know. I’m just following the data.)</li>
   <li>Determine how we want to present the data.  Currently, I expect to put together an interactive Gini curve with:
-  <ul>
-    <li>ghosted Lorenze curves for each week since 1974;</li>
-    <li>the expected Gini curve from our tennis-specific model with a 99% confidence band (because I don’t want to hear about how Nassim Taleb showed that for 95% confidence, we need a p-value <0.11);</li>
-    <li>a date selector so that we can identify a particular week, which will highlight that week’s Lorenze curve with Gini coefficient and list the ranked players, their points, and their weighted points; and</li>
-    <li>perhaps the ability to simply fish around in the chart area.</li>
-  </ul>
+    <ul>
+      <li>ghosted Lorenze curves for each week since 1974;</li>
+      <li>the expected Gini curve from our tennis-specific model with a 99% confidence band (because I don’t want to hear about how Nassim Taleb showed that for 95% confidence, we need a p-value <0.11);</li>
+      <li>a date selector so that we can identify a particular week, which will highlight that week’s Lorenze curve with Gini coefficient and list the ranked players, their points, and their weighted points; and</li>
+      <li>perhaps the ability to simply fish around in the chart area.</li>
+    </ul>
   <li>Put together a LaTeX paper discussing the development of the model and the results.</li>
   <li>Put together a stand-alone page with side-notes.</li>
   <li>Tweet the result with a link, sit back, and enjoy the sparks/fire works/explosive decompression of the various fan clubs!</li>
