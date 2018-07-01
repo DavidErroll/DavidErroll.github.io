@@ -16,24 +16,25 @@ The following is a rough idea of the steps I see for the Tennis Gini(e) project 
 </p>
 <p>
 <ul>
-<li>Develop a Monte Carlo model for 100 equally skilled players.  This will give us a base-line estimate for an expected value of a Gini Coefficient.</li>
-<li>Develop a Monte Carlo model that more closely fits the point distribution of a standard single-elimination bracket for an ATP tennis tournament. We will use this Gini Coefficient as the expected value to prove that current professional tennis players are not simply equally skilled with a few lucky individuals.</li>
-<li>Scrape weekly ATP point data from the organization’s web site.</li>
-<li>Wrangle the true ATP point data into a data frame, with keys of player names for the rows and dates for the columns.  (This is actually a slight modification based on the following section – originally I had planned to have the column index simply be the week’s Gini coefficient.)</li>
-<li>Calculate the Gini coefficient for each week.  Calculate a weighted point total for each first-place ranked player and populate into a single column of a new data frame (query whether this is necessary) with player names as row keys and Rank 1 as column key.</li>
-<li>Calculate a modified Gini coefficient for each week excluding the first-ranked player. Calculate a weighted point total for each second-ranked player and populate into the points data frame in a new Rank 2 column.</li>
-<li>Repeat this step for each rank through the top 100 players (or more, depending).</li>
-<li>Sum the Gini-weighted ranking points for each player earned at each ranking.  This in the basic reportable result: the player with the greatest Gini-weighted ranking point total across all weeks is the most dominant player, the “G.O.A.T” if you will.  (Honey, if you’re reading this – which you’re not – it could be Rafa.  It could. I don’t know. I’m just following the data.)</li>
-<li>Determine how we want to present the data.  Currently, I expect to put together an interactive Gini curve with:
-<ul>
-<li>ghosted Lorenze curves for each week since 1974;</li>
-<li>the expected Gini curve from our tennis-specific model with a 99% confidence band (because I don’t want to hear about how Nassim Taleb showed that for 95% confidence, we need a p-value <0.11);</li>
-<li>a date selector so that we can identify a particular week, which will highlight that week’s Lorenze curve with Gini coefficient and list the ranked players, their points, and their weighted points; and</li>
-<li>perhaps the ability to simply fish around in the chart area.</li>
+  <li>Develop a Monte Carlo model for 100 equally skilled players.  This will give us a base-line estimate for an expected value of a Gini Coefficient.</li>
+  <li>Develop a Monte Carlo model that more closely fits the point distribution of a standard single-elimination bracket for an ATP tennis tournament. We will use this Gini Coefficient as the expected value to prove that current professional tennis players are not simply equally skilled with a few lucky individuals.</li>
+  <li>Scrape weekly ATP point data from the organization’s web site.</li>
+  <li>Wrangle the true ATP point data into a data frame, with keys of player names for the rows and dates for the columns.  (This is actually a slight modification based on the following section – originally I had planned to have the column index simply be the week’s Gini coefficient.)</li>
+  <li>Calculate the Gini coefficient for each week.  Calculate a weighted point total for each first-place ranked player and populate into a single column of a new data frame (query whether this is necessary) with player names as row keys and Rank 1 as column key.</li>
+  <li>Calculate a modified Gini coefficient for each week excluding the first-ranked player. Calculate a weighted point total for each second-ranked player and populate into the points data frame in a new Rank 2 column.</li>
+  <li>Repeat this step for each rank through the top 100 players (or more, depending).</li>
+  <li>Sum the Gini-weighted ranking points for each player earned at each ranking.  This in the basic reportable result: the player with the greatest Gini-weighted ranking point total across all weeks is the most dominant player, the “G.O.A.T” if you will.  (Honey, if you’re reading this – which you’re not – it could be Rafa.  It could. I don’t know. I’m just following the data.)</li>
+  <li>Determine how we want to present the data.  Currently, I expect to put together an interactive Gini curve with:
+  <ul>
+    <li>ghosted Lorenze curves for each week since 1974;</li>
+    <li>the expected Gini curve from our tennis-specific model with a 99% confidence band (because I don’t want to hear about how Nassim Taleb showed that for 95% confidence, we need a p-value <0.11);</li>
+    <li>a date selector so that we can identify a particular week, which will highlight that week’s Lorenze curve with Gini coefficient and list the ranked players, their points, and their weighted points; and</li>
+    <li>perhaps the ability to simply fish around in the chart area.</li>
+  </ul>
 </ul>
-<p>
-<h3>Whose Gini metric is it?</h3>
-</p>
+<h3>
+Whose Gini metric is it?
+</h3>
 <p>
 One aspect of the Gini coefficient that we have to keep in mind is that it is a ratio of areas – and the ratio’s divisor is constant.  As a consequence of this, a functionally infinite number of sets of numbers that can give any since Gini result.  That is, two very different distributions can have the same Gini coefficient.  
 </p>
