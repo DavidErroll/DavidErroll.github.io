@@ -31,6 +31,9 @@ The following is a rough idea of the steps I see for the Tennis Gini(e) project 
     <li>a date selector so that we can identify a particular week, which will highlight that week’s Lorenze curve with Gini coefficient and list the ranked players, their points, and their weighted points; and</li>
     <li>perhaps the ability to simply fish around in the chart area.</li>
   </ul>
+  <li>Put together a LaTeX paper discussing the development of the model and the results.</li>
+  <li>Put together a stand-alone page with side-notes.</li>
+  <li>Tweet the result with a link, sit back, and enjoy the sparks/fire works/explosive decompression of the various fan clubs!</li>
 </ul>
 
 <h3>
