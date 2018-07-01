@@ -14,7 +14,6 @@ Project Plan
 <p>
 The following is a rough idea of the steps I see for the Tennis Gini(e) project that will, I hope, settle once and for all just who the most dominant tennis player was – regardless of what portion of the post-1974 Open Era that individual played in.
 </p>
-<p>
 <ul>
   <li>Develop a Monte Carlo model for 100 equally skilled players.  This will give us a base-line estimate for an expected value of a Gini Coefficient.</li>
   <li>Develop a Monte Carlo model that more closely fits the point distribution of a standard single-elimination bracket for an ATP tennis tournament. We will use this Gini Coefficient as the expected value to prove that current professional tennis players are not simply equally skilled with a few lucky individuals.</li>
