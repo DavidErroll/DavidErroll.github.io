@@ -68,7 +68,7 @@ To correct for this, we have to recalculate the Gini for each ranking level.  Th
 </p>
 
 <p>
-This will offer us a meaning look at the extent to which players have demonstrated the performance gap between themselves and those that they out-paced.
+This will offer us a meaningful look at the extent to which players have demonstrated the performance gap between themselves and those that they out-paced.
 </p>
 
 <p>
