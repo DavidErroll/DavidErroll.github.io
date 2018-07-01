@@ -4,16 +4,13 @@ title: "The Tennis Gini(e) Part 3 of n"
 date: 2018-07-01
 ---
 
-<h2>
-Tennis Gini(e) Part 3 of n
-</h2>
-<h3>Some housekeeping</h3>
+<h2>Some housekeeping</h2>
 <p>
 We want to sketch out a quick roadmap of this project and then introduce a bit of a twist that I realized will probably make this project more complicated but arguably more meaningful.
 </p>
-<h4>
+<h3>
 Project Plan
-</h4>
+</h3>
 <p>
 The following is a rough idea of the steps I see for the Tennis Gini(e) project that will, I hope, settle once and for all just who the most dominant tennis player was – regardless of what portion of the post-1974 Open Era that individual played in.
 </p>
@@ -34,10 +31,8 @@ The following is a rough idea of the steps I see for the Tennis Gini(e) project 
 <li>a date selector so that we can identify a particular week, which will highlight that week’s Lorenze curve with Gini coefficient and list the ranked players, their points, and their weighted points; and</li>
 <li>perhaps the ability to simply fish around in the chart area.</li>
 </ul>
-</ul>
-</p>
 <p>
-<h4>Whose Gini metric is it?</h4>
+<h3>Whose Gini metric is it?</h3>
 </p>
 <p>
 One aspect of the Gini coefficient that we have to keep in mind is that it is a ratio of areas – and the ratio’s divisor is constant.  As a consequence of this, a functionally infinite number of sets of numbers that can give any since Gini result.  That is, two very different distributions can have the same Gini coefficient.  
