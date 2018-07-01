@@ -4,17 +4,16 @@ title: "The Tennis Gini(e) Part 3 of n"
 date: 2018-07-01
 ---
 
-<h1>Tennis Gini(e) Part 3 of n</h1>
-</p>
-<p>
-<h2>Some housekeeping</h2>
-</p>
+<h2>
+Tennis Gini(e) Part 3 of n
+</h2>
+<h3>Some housekeeping</h3>
 <p>
 We want to sketch out a quick roadmap of this project and then introduce a bit of a twist that I realized will probably make this project more complicated but arguably more meaningful.
 </p>
-<p>
-<3>Project Plan</h3>
-</p>
+<h4>
+Project Plan
+</h4>
 <p>
 The following is a rough idea of the steps I see for the Tennis Gini(e) project that will, I hope, settle once and for all just who the most dominant tennis player was – regardless of what portion of the post-1974 Open Era that individual played in.
 </p>
@@ -38,7 +37,7 @@ The following is a rough idea of the steps I see for the Tennis Gini(e) project 
 </ul>
 </p>
 <p>
-<h3>Whose Gini metric is it?</h3>
+<h4>Whose Gini metric is it?</h4>
 </p>
 <p>
 One aspect of the Gini coefficient that we have to keep in mind is that it is a ratio of areas – and the ratio’s divisor is constant.  As a consequence of this, a functionally infinite number of sets of numbers that can give any since Gini result.  That is, two very different distributions can have the same Gini coefficient.  
