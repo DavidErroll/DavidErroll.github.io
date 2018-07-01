@@ -56,7 +56,7 @@ we could have (1) a few of the lowest point totals have zero or near-zero points
 </p>
 
 <p>
-Both of these could have the same Gini coefficient, but the analysis would be extremely different.  Specifically for what we are looking at, in the first instance, one could argue that the second- through last-place players are, roughly,, well measured by the Gini number.  
+Both of these could have the same Gini coefficient, but the analysis would be extremely different.  Specifically for what we are looking at, in the first instance, one could argue that the second- through last-place players are, roughly, well measured by the Gini number.  
 </p>
 
 <p>
